@@ -1,7 +1,7 @@
 package jito_client
 
 import (
-	"Jito/pkg/jito_client/proto"
+	"jito_client/proto"
 	"github.com/desperatee/solana-go"
 )
 
