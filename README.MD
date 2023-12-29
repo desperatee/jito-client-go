@@ -1,4 +1,4 @@
 # Jito Solana client
 
 TODO:
-- [] Searcher client
+- [ ] Searcher client
